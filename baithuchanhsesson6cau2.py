@@ -1,5 +1,5 @@
 #cau 2:
-password = 123456
+password = "123456"
 
 for check in range(1, 4):
     check_passwork = input("Moi nhap mat khau: ")
