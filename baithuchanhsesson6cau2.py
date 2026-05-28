@@ -12,6 +12,3 @@ for check in range(1, 4):
 if check == 3:
     print("Tai khoang da bi khoa!")
 
-# #cau 3:
-total_quantity = int(input("Nhap tong so luong san pham: "))
-valid_container = int(input("Nhap so thung hang hop le: "))
